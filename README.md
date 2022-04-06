@@ -19,7 +19,7 @@ It's a supervised learning model where you have input variables (X) and an outpu
 
 
 ## Documentation
-List of libraries used in this project:
+List of all libraries used in this project:
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
