@@ -9,8 +9,8 @@ In this project, I use Facebook Prophet, a procedure for forecasting time series
 
 ### Time Series Forecasting
 It's a supervised learning model where you have input variables (X) and an output variable (y) and you use an algorithm to learn the mapping function from the input to the output.
-- *__x__* variable &rightarrow; _datetime_
-- *__y__* variable &rightarrow; _price_
+- *__x__* variable = _datetime_
+- *__y__* variable = _price_
 
 
 ## Authors
