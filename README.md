@@ -26,3 +26,4 @@ List of all libraries used in this project:
 - [Facebook Prophet](https://facebook.github.io/prophet/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests](https://docs.python-requests.org/en/latest/)
+
