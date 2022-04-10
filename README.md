@@ -4,6 +4,9 @@ As I moved to another state and was looking for a new apartment to rent, I start
 
 In this project, I use Facebook Prophet, a procedure for forecasting time series data and find seasonality patterns. The results indicate that one could save up to $1000 per year on apartment rental prices by selecting the optimal time of the year to sign the apartment lease.
 
+### Jupyter Notebook
+- [Forecasting apartment prices using Prophet](https://github.com/murilogustineli/Apartment-Forecast-Prophet/blob/main/apartment_forecast_prophet.ipynb)
+
 ### Data Source
 - [Apartment List data](https://www.apartmentlist.com/research/category/data-rent-estimates)
 
